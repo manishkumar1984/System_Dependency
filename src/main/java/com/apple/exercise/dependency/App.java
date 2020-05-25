@@ -1,4 +1,4 @@
-package com.apple.excecise.dependency;
+package com.apple.exercise.dependency;
 
 import java.io.File;
 import java.util.Scanner;
