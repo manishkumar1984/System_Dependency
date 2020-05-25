@@ -64,7 +64,7 @@ public class DependencyManagerImpl implements DependencyManager {
 		return dependencies.keySet().stream().filter(p -> p.equals(program)).findFirst().orElse(program);
 	}
 
-	private boolean isInstalled(Program program) {
+	public boolean isInstalled(Program program) {
 		return installed.contains(program);
 	}
 
