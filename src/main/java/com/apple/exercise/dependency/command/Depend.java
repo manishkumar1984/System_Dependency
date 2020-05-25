@@ -1,10 +1,10 @@
-package com.apple.excecise.dependency.command;
+package com.apple.exercise.dependency.command;
 
 import java.util.Arrays;
 
-import com.apple.excecise.dependency.exception.CommandException;
-import com.apple.excecise.dependency.exception.ServiceException;
-import com.apple.excecise.dependency.model.Program;
+import com.apple.exercise.dependency.exception.CommandException;
+import com.apple.exercise.dependency.exception.ServiceException;
+import com.apple.exercise.dependency.model.Program;
 
 /**
  * @author Manish Kumar (manishkumar1984@gmail.com)

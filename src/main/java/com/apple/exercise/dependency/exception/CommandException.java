@@ -1,4 +1,4 @@
-package com.apple.excecise.dependency.exception;
+package com.apple.exercise.dependency.exception;
 
 /**
  * @author Manish Kumar (manishkumar1984@gmail.com)

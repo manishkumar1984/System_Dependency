@@ -1,4 +1,4 @@
-package com.apple.excecise.dependency.model;
+package com.apple.exercise.dependency.model;
 
 import java.util.Collections;
 import java.util.HashSet;

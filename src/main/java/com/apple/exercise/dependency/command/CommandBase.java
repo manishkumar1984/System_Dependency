@@ -1,9 +1,9 @@
-package com.apple.excecise.dependency.command;
+package com.apple.exercise.dependency.command;
 
-import com.apple.excecise.dependency.core.Command;
-import com.apple.excecise.dependency.exception.CommandException;
-import com.apple.excecise.dependency.exception.ServiceException;
-import com.apple.excecise.dependency.service.DependencyManager;
+import com.apple.exercise.dependency.core.Command;
+import com.apple.exercise.dependency.exception.CommandException;
+import com.apple.exercise.dependency.exception.ServiceException;
+import com.apple.exercise.dependency.service.DependencyManager;
 
 /**
  * @author Manish Kumar (manishkumar1984@gmail.com)

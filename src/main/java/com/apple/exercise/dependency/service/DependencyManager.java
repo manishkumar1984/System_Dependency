@@ -1,9 +1,9 @@
-package com.apple.excecise.dependency.service;
+package com.apple.exercise.dependency.service;
 
 import java.util.Set;
 
-import com.apple.excecise.dependency.exception.ServiceException;
-import com.apple.excecise.dependency.model.Program;
+import com.apple.exercise.dependency.exception.ServiceException;
+import com.apple.exercise.dependency.model.Program;
 
 public interface DependencyManager {
     Set<Program> list() throws ServiceException;

@@ -1,6 +1,6 @@
-package com.apple.excecise.dependency.core;
+package com.apple.exercise.dependency.core;
 
-import com.apple.excecise.dependency.exception.CommandException;
+import com.apple.exercise.dependency.exception.CommandException;
 
 /**
  * @author Manish Kumar (manishkumar1984@gmail.com)

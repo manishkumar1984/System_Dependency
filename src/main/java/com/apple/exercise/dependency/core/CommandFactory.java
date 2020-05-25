@@ -1,15 +1,15 @@
-package com.apple.excecise.dependency.core;
+package com.apple.exercise.dependency.core;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.apple.excecise.dependency.command.Depend;
-import com.apple.excecise.dependency.command.Install;
-import com.apple.excecise.dependency.command.List;
-import com.apple.excecise.dependency.command.Remove;
-import com.apple.excecise.dependency.exception.CommandException;
-import com.apple.excecise.dependency.service.DependencyManager;
-import com.apple.excecise.dependency.service.DependencyManagerImpl;
+import com.apple.exercise.dependency.command.Depend;
+import com.apple.exercise.dependency.command.Install;
+import com.apple.exercise.dependency.command.List;
+import com.apple.exercise.dependency.command.Remove;
+import com.apple.exercise.dependency.exception.CommandException;
+import com.apple.exercise.dependency.service.DependencyManager;
+import com.apple.exercise.dependency.service.DependencyManagerImpl;
 
 /**
  * @author Manish Kumar (manishkumar1984@gmail.com)

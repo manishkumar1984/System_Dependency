@@ -1,4 +1,4 @@
-package com.apple.excecise.dependency.service;
+package com.apple.exercise.dependency.service;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -6,8 +6,8 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import com.apple.excecise.dependency.exception.ServiceException;
-import com.apple.excecise.dependency.model.Program;
+import com.apple.exercise.dependency.exception.ServiceException;
+import com.apple.exercise.dependency.model.Program;
 
 public class DependencyManagerImpl implements DependencyManager {
 	private Map<Program, Set<Program>> dependencies;
